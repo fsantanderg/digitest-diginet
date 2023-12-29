@@ -4,7 +4,7 @@ Imports System.Text
 Imports Newtonsoft.Json
 
 
-Public Class Form1
+Public Class w_logIn
     Public TokenApi As String = ""
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
