@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Digitest"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89bedcccdb1ce57ab3b157f2a2b6ab10ed46fe38"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Digitest"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Digitest"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

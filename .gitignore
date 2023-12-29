@@ -1,3 +1,10 @@
 /bin/*
 /obj/*
 /.vs/*
+obj/project.nuget.cache
+obj/project.assets.json
+obj/Digitest.vbproj.nuget.dgspec.json
+obj/Debug/net6.0-windows/Digitest.designer.deps.json
+obj/Debug/net6.0-windows/Digitest.assets.cache
+obj/Debug/net6.0-windows/Digitest.AssemblyInfoInputs.cache
+obj/Debug/net6.0-windows/Digitest.AssemblyInfo.vb
